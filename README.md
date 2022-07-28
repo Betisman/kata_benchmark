@@ -2,7 +2,7 @@
 
 ## Why
 
-This repo is just a proof of concept of using benchmark.js to measure the performance of different solutions to a same problem. We want to use it to create a kata challenge in our organization and let our program get the winner.
+This repo is just a proof of concept of using [benchmark.js](https://benchmarkjs.com/) to measure the performance of different solutions to a same problem. We want to use it to create a kata challenge in our organization and let our program get the winner.
 
 ## How
 
